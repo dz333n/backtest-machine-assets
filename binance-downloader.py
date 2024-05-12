@@ -17,7 +17,8 @@ whitelist = [
     "TWTUSDT",
     "DOGEUSDT",
     "SOLUSDT",
-    "TRXUSDT"
+    "TRXUSDT",
+    "DEFIUSDT"
 ]
 
 
