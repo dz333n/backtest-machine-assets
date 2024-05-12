@@ -18,7 +18,8 @@ whitelist = [
     "DOGEUSDT",
     "SOLUSDT",
     "TRXUSDT",
-    "DEFIUSDT"
+    "DEFIUSDT",
+    "TRBUSDT"
 ]
 
 
